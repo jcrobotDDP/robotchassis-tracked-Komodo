@@ -227,6 +227,8 @@ Follow this order to unbox:
 1. Cut the cable ties, open the top cover, and remove the side and end panels
 
 2. Drive or lift the product off the pallet. Fold and store the packaging for future reuse.
+<img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/47453da7-7df4-41ae-b5ca-366bfaa3115f" />
+
 
 ### 5.2 Power-on Procedure
 
@@ -239,6 +241,8 @@ Turn on the remote controller power switch first, then turn on the vehicle power
 This chassis remote control and drive are configured for internal mixing mode. Channel 2 and Channel 4 of the remote controller independently control straight travel and steering. The right joystick controls vehicle movement, supporting 8 directions: forward, reverse, left, right, forward-left, forward-right, reverse-left, reverse-right. All are proportional control — joystick deflection angle corresponds to vehicle speed.
 
 > Never push the joystick abruptly. Avoid frequent sudden starts and stops.
+<img width="911" height="782" alt="image" src="https://github.com/user-attachments/assets/600ce183-07e8-43a1-b8f0-be415266f5fb" />
+
 
 **a) Joystick Functions**
 
@@ -263,6 +267,8 @@ This chassis remote control and drive are configured for internal mixing mode. C
     - Pull lower-left: PTZ lower-left; Pull lower-right: PTZ lower-right
 
 **b) Receiver Channel Settings**
+<img width="818" height="329" alt="image" src="https://github.com/user-attachments/assets/893d8fda-8e60-4d60-bd11-fefccb28ce29" />
+
 
 > Default factory configuration, key parameters:
 > 
@@ -295,6 +301,7 @@ The JC-600 compact tracked robot chassis meets the high demands of small reconna
 JC-600 — engineered for smoothness.
 
 ### 6.2 Dimensions
+<img width="771" height="439" alt="image" src="https://github.com/user-attachments/assets/05082ac9-17a7-4554-b478-4cc21dc279ad" />
 
 *All dimensions in millimeters (mm)*
 
@@ -324,6 +331,8 @@ JC-600 — engineered for smoothness.
 |Body weight|17 kg|Total body current|9 A|
 
 ### 6.5 Electrical Principles
+
+<img width="1056" height="791" alt="image" src="https://github.com/user-attachments/assets/75312a4f-2ce4-4e1a-b16e-42a3ed0e88ff" />
 
 - Standard battery: 24V 20Ah lithium-ion battery, maximum voltage 25.6V, cut-off discharge voltage 20V
 
@@ -506,6 +515,7 @@ For inquiries or feedback, contact:
 
 <details>
 <summary><h2 style="display:inline; color: #7FDBCA">💾 8 3D CAD Models</h2></summary>
+<img width="1448" height="1043" alt="image" src="https://github.com/user-attachments/assets/b37ebea9-5797-4669-97ff-b495baa8d022" />
 
 > Download the attachment by opening the link in a browser:
 > [JC600 Customer Reference Drawings.rar (Yuque attachment, login required)](https://www.yuque.com/attachments/yuque/0/2023/rar/2802136/1686554991346-9d78fbe5-9220-4818-b906-920f31fc8099.rar)
