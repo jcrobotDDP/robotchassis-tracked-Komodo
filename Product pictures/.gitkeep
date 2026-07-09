@@ -1,0 +1,9 @@
+# 产品图片文件夹 - Product Pictures Folder
+
+这个文件夹用于存放所有产品的图片资源。
+This folder is used to store all product image resources.
+
+上传的图片可以在 docs 文件夹中的文档通过相对路径引用。
+Uploaded images can be referenced in documents within the docs folder using relative paths.
+
+例如：![Product Name](../Product%20pictures/image-name.jpg)
