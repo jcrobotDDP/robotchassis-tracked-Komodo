@@ -1,4 +1,4 @@
-# JC-600 Tracked Robot Chassis User Manual
+# <span style="color: #FF6B6B">JC-600 Tracked Robot Chassis User Manual</span>
 
 ## Pre-use Notice
 
@@ -24,7 +24,8 @@ If you have any questions during operation, please contact JROBOT or an authoriz
 
 ---
 
-## 1 Packing List
+<details>
+<summary><h2 style="display:inline; color: #4ECDC4">📋 1 Packing List</h2></summary>
 
 |Category|Contents|
 |---|---|
@@ -34,9 +35,12 @@ If you have any questions during operation, please contact JROBOT or an authoriz
 |Documentation|- [ ] Electronic documentation × 1 set|
 |Others|To be supplemented|
 
+</details>
+
 ---
 
-## 2 Disclaimer
+<details>
+<summary><h2 style="display:inline; color: #FFE66D">⚖️ 2 Disclaimer</h2></summary>
 
 Thank you for purchasing a JROBOT chassis product. The content of this document relates to your safety, legal rights and responsibilities. Failure to follow the instructions and warnings in this document may result in personal injury to you and surrounding personnel, as well as damage to the product and nearby property.
 
@@ -56,9 +60,12 @@ JROBOT reserves the right of final interpretation of this document and all relat
 
 Please read this manual carefully before use to help you better develop and operate the product. Keep this manual in a safe place for future reference when selecting accessories and performing maintenance.
 
+</details>
+
 ---
 
-## 3 Safety Operation Guidelines
+<details>
+<summary><h2 style="display:inline; color: #95E1D3">⚠️ 3 Safety Operation Guidelines</h2></summary>
 
 ### 3.1 Operating Environment
 
@@ -118,9 +125,12 @@ Please read this manual carefully before use to help you better develop and oper
 
 3. Inspect oil quality every six months. Replace immediately if the oil contains impurities, is aged or deteriorated. Lubrication must be performed with the reducer stopped. Fill oil to 3/4 of the reducer internal volume (approximately 2.22L). Recommended oil grade: ISO VG220.
 
+</details>
+
 ---
 
-## 4 Battery Safety Instructions
+<details>
+<summary><h2 style="display:inline; color: #F38181">🔋 4 Battery Safety Instructions</h2></summary>
 
 Improper use, charging or storage of the battery may cause fire, resulting in property damage and personal injury. Please strictly follow the safety guidelines below.
 
@@ -201,9 +211,12 @@ Improper use, charging or storage of the battery may cause fire, resulting in pr
 
 - Do not store the battery in environments above 50°C or below -20°C.
 
+</details>
+
 ---
 
-## 5 Quick Start Guide
+<details>
+<summary><h2 style="display:inline; color: #AA96DA">🚀 5 Quick Start Guide</h2></summary>
 
 ### 5.1 Unboxing
 
@@ -268,9 +281,12 @@ This chassis remote control and drive are configured for internal mixing mode. C
 **c) Additional Notes**
 For Ackermann wheeled chassis or gun-style handheld remote controllers, refer to the corresponding instructions. All other safety specifications are consistent with this manual.
 
+</details>
+
 ---
 
-## 6 User Manual
+<details>
+<summary><h2 style="display:inline; color: #FCBAD3">📖 6 User Manual</h2></summary>
 
 ### 6.1 Product Overview
 
@@ -461,9 +477,12 @@ Never push the joystick abruptly. Avoid frequent sudden starts and stops.
 
     - Avoid severe vibration
 
+</details>
+
 ---
 
-## 7 Warranty Card
+<details>
+<summary><h2 style="display:inline; color: #A8D8EA">📋 7 Warranty Card</h2></summary>
 
 Content is subject to update without notice. Check the latest version on the JROBOT official website: [https://www.jcrobots.com](https://www.jcrobots.com)
 
@@ -481,19 +500,27 @@ For inquiries or feedback, contact:
 |||Technician||
 |||Quality Inspector||
 
+</details>
+
 ---
 
-## 8 3D CAD Models
+<details>
+<summary><h2 style="display:inline; color: #7FDBCA">💾 8 3D CAD Models</h2></summary>
 
 > Download the attachment by opening the link in a browser:
 > [JC600 Customer Reference Drawings.rar (Yuque attachment, login required)](https://www.yuque.com/attachments/yuque/0/2023/rar/2802136/1686554991346-9d78fbe5-9220-4818-b906-920f31fc8099.rar)
 
+</details>
+
 ---
 
-## 9 Extended Models & Related Solutions
+<details>
+<summary><h2 style="display:inline; color: #FF9AA2">🔗 9 Extended Models & Related Solutions</h2></summary>
 
 - [Application Gallery – JC600/600L (Yuque)](https://www.yuque.com/jichuangjiqirenjcrobot/qokzma/ohgtspolbu5etmcs)
 
 - [Reconnaissance Robot K-02 & JC600 (Yuque)](https://www.yuque.com/jichuangjiqirenjcrobot/qokzma/asyxhg2ytc1p8vqx?singleDoc#)
 
 - [JC600 + Remote Control System (Yuque)](https://www.yuque.com/jichuangjiqirenjcrobot/qokzma/tk0a7pmlgmmo3nvy)
+
+</details>
