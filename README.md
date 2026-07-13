@@ -34,16 +34,16 @@
 
 ```
 .
-├── README.md                    # 仓库主文档
-├── docs/                        # 用户手册文件夹
+├── README.md                    # Repository main document
+├── docs/                        # User Manual Folder
 │   ├── JC-600 Tracked Robot Chassis User Manual.md
 │   ├── JC-600L Tracked Robot Chassis User Manual.md
 │   ├── Komodo-ZERO Tracked Robot Chassis User Manual.md
 │   ├── Komodo-01 Tracked Robot Chassis User Manual.md
 │   ├── ... (20 more manuals)
 │   └── Komodo-15 Tracked Robot Chassis User Manual.md
-└── Product pictures/            # 产品图片文件夹
-    └── (待上传图片文件)
+└── Product pictures/            # Product Image Folder
+    
 ```
 
 ## 🖼️ Product Pictures
@@ -58,6 +58,17 @@ The `Product pictures` folder contains all product images. These images are refe
 ## 📞 Support
 
 For technical support or questions about our tracked robot chassis products, please refer to the relevant user manual or contact our technical support team.
+
+**Company:** 极创机器人智能科技（山东）有限公司 (Jichuang Robotics Intelligent Technology (Shandong) Co., Ltd.)  
+
+**Address:** Taishan Robot Maker Factory, No.72 Boyang Road, Taishan District, Tai'an City, Shandong Province, China  
+
+**Email:** ddpjcrobot@outlook.com  |  jcrobot@163.com
+
+**Whatsapp:**  +1 (327)208 2104  |   +1 (818)463 9273
+
+**Website:** [https://robot-chassis.com](https://robot-chassis.com/)
+
 
 ## 📝 License
 
