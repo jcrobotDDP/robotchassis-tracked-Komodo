@@ -1,5 +1,7 @@
 # <span style="color: #FF6B6B">JC-600 Tracked Robot Chassis User Manual</span>
 
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/3bcb4ac4-32c7-4dc9-820a-06d80769434e" />
+
 ## Pre-use Notice
 
 To ensure safe and convenient use of this product, JROBOT provides the following documentation:
@@ -44,7 +46,7 @@ If you have any questions during operation, please contact JROBOT or an authoriz
 
 Thank you for purchasing a JROBOT chassis product. The content of this document relates to your safety, legal rights and responsibilities. Failure to follow the instructions and warnings in this document may result in personal injury to you and surrounding personnel, as well as damage to the product and nearby property.
 
-JROBOT reserves the right of final interpretation of this document and all related product documentation. Content is subject to change without prior notice. Please visit the official website at [www.jcrobots.com](https://www.jcrobots.com) for the latest product information.
+JROBOT reserves the right of final interpretation of this document and all related product documentation. Content is subject to change without prior notice. Please visit the official website at  [https://robot-chassis.com/](https://robot-chassis.com/) for the latest product information.
 
 - By using this product, you acknowledge that you have carefully read the disclaimer and warnings, and understand, accept and agree to all terms and conditions herein.
 
@@ -493,13 +495,19 @@ Never push the joystick abruptly. Avoid frequent sudden starts and stops.
 <details>
 <summary><h2 style="display:inline; color: #A8D8EA">📋 7 Warranty Card</h2></summary>
 
-Content is subject to update without notice. Check the latest version on the JROBOT official website: [https://www.jcrobots.com](https://www.jcrobots.com)
+Content is subject to update without notice. Check the latest version on the JROBOT official website: [https://robot-chassis.com/](https://robot-chassis.com/) 
 
 For inquiries or feedback, contact:
 
-- Email: [jcrobot@163.com](mailto:jcrobot@163.com)
+- Email: ddpjcrobot@outlook.com  |  jcrobot@163.com
 
-- Phone: +86 0538-6626018
+- Phone:
+
+• +1 (327)208 2104
+
+• +1 (818)463 9273
+
+• 0538-6626018
 
 |Item|Content|Item|Content|
 |---|---|---|---|
