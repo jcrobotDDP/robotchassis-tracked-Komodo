@@ -1,4 +1,4 @@
-# <span style="color: #FF6B6B">JC-600 Tracked Robot Chassis User Manual</span>
+# <span style="color: #FF6B6B">Komodo-01 Tracked Robot Chassis User Manual</span>
 
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/f5139deb-1820-4ca5-a053-acd4ba4586a9" />
 
