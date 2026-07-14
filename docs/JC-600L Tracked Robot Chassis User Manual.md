@@ -22,7 +22,8 @@ If you have any questions while using this product, please contact JCROBOT or an
 
 ---
 
-## 1. Packing List
+<details>
+<summary><h2 style="display:inline; color: #4ECDC4">📋 1 Packing List</h2></summary>
 
 | Item | Qty | Item | Qty |
 | :--- | :---: | :--- | :---: |
@@ -32,11 +33,14 @@ If you have any questions while using this product, please contact JCROBOT or an
 | Documentation set (electronic) | 1 | VCU chassis controller | 1 |
 | Others: | | | |
 
+</details>
+  
 ---
 
-## 2. Disclaimer
+<details>
+<summary><h2 style="display:inline; color: #FFE66D">⚖️ 2 Disclaimer</h2></summary>
 
-Thank you for purchasing a JCROBOT chassis product. The content contained in this document relates to your safety, legal rights, and responsibilities. Failure to follow the instructions and warnings in this document may cause injury to you or others, damage to the product, or damage to other surrounding objects. The final interpretation of this document and all related documents belongs to JCROBOT. Updates are subject to change without notice. Please visit the official website at www.jcrobots.com for the latest product information.
+Thank you for purchasing a JCROBOT chassis product. The content contained in this document relates to your safety, legal rights, and responsibilities. Failure to follow the instructions and warnings in this document may cause injury to you or others, damage to the product, or damage to other surrounding objects. The final interpretation of this document and all related documents belongs to JCROBOT. Updates are subject to change without notice. Please visit the official website at [https://robot-chassis.com/](https://robot-chassis.com/) for the latest product information.
 
 By using this product, you are deemed to have carefully read the disclaimer and warnings, and to understand, acknowledge, and accept all terms and conditions of this statement. You promise to take full responsibility for your use of this product and any consequences that may arise. You promise to use this product only for legitimate purposes and agree to these terms as well as any relevant regulations, policies, and guidelines established by JCROBOT.
 
@@ -52,9 +56,12 @@ JCROBOT, Jichuang, and JROBOT are trademarks of JCROBOT Technology Co., Ltd. Pro
 
 Please read the manual carefully before use – it will help you better develop and use this product. Be sure to keep this manual for future reference when selecting accessories and performing maintenance.
 
+</details>
+  
 ---
 
-## 3. Safety Operation Guidelines
+<details>
+<summary><h2 style="display:inline; color: #95E1D3">⚠️ 3 Safety Operation Guidelines</h2></summary>
 
 ### 3.1 Environment
 
@@ -92,10 +99,13 @@ Please read the manual carefully before use – it will help you better develop 
   1. If the reducer has been stored for more than 4 months, or after 6000 operating hours, or after six months of use (whichever comes first), check whether the oil seal is immersed in lubricating oil. The oil seal lip may stick to the shaft and lose elasticity. Proper elasticity is essential for normal oil seal function; replace the oil seal if it loses elasticity.
   2. After the first 300 operating hours (gear break‑in period), change the lubricating oil. Thereafter, change oil every 12000 operating hours. Do not mix oils of different grades; oils of the same grade but different viscosities may be mixed. Inspect oil quality every six months; if the oil contains impurities, has aged, or deteriorated, it must be changed immediately. Oil should be added while the reducer is stopped; fill to about 3/4 of the reducer's internal volume (approximately 2.22 L). Use oil grade ISO VG220.
 
+</details>
+  
 ---
 
-## 4. Battery Safety Guidelines
-
+<details>
+<summary><h2 style="display:inline; color: #F38181">🔋 4 Battery Safety Instructions</h2></summary>
+  
 Improper use, charging, or storage of batteries may lead to fire, property damage, or personal injury. Always follow these safety guidelines when using batteries.
 
 ### 4.1 Usage
@@ -146,15 +156,18 @@ During charging, place the charger and chassis (battery) in a well‑ventilated,
 - Recharge and discharge the battery approximately every 3 months to maintain its activity.
 - Do not store the battery in environments where room temperature exceeds 50°C or drops below -20°C.
 
+</details>
+
 ---
 
-## 5. Quick Start Guide
+<details>
+<summary><h2 style="display:inline; color: #AA96DA">🚀 5 Quick Start Guide</h2></summary>
 
 ### 5.1 Unboxing
 
 Thank you for using our environmentally friendly packaging! This product consists of seven main components: wooden pallet, left/right panels, front/rear panels, top cover, and straps. It is easy to assemble and disassemble, environmentally friendly, space‑saving, and reusable. For safe and correct handling, follow the steps below:
 
-[Image placeholder: document_image_rId6]
+<img width="1426" height="811" alt="image" src="https://github.com/user-attachments/assets/f217a2cb-1f23-4851-83ad-12809722ea39" />
 
 ### 5.2 Power‑on
 
@@ -168,7 +181,7 @@ This chassis is configured with the driver internal mixing mode. Channels 2 and 
 
 **Do not make abrupt large movements, and avoid frequent sudden starts and stops.**
 
-[Image placeholder: document_image_rId7]
+<img width="911" height="782" alt="image" src="https://github.com/user-attachments/assets/332280f7-5fa7-493d-9d96-47afeb1ed731" />
 
 a) **Joystick operation description**
 
@@ -185,7 +198,7 @@ a) **Joystick operation description**
 
 b) **Receiver channel assignment**
 
-[Image placeholder: document_image_rId8]
+<img width="818" height="329" alt="image" src="https://github.com/user-attachments/assets/d421fe10-2187-4af9-ae36-9b3a50a5f725" />
 
 **Settings (factory‑set):**
 - In system settings, set the joystick mode to **Mode 4**.
@@ -201,9 +214,12 @@ b) **Receiver channel assignment**
 
 c) **For Ackermann wheeled chassis or pistol‑grip remote controllers**, follow the corresponding instructions for the relevant buttons; other aspects remain the same.
 
+</details>
+
 ---
 
-## 6. User Manual
+<details>
+<summary><h2 style="display:inline; color: #FCBAD3">📖 6 User Manual</h2></summary>
 
 ### 6.1 Product Overview
 
@@ -211,7 +227,7 @@ The JC-600L compact tracked robot chassis meets high demands for off‑road mobi
 
 ### 6.2 Technical Dimensions (Diagram)
 
-[Image placeholder: document_image_rId9]
+<img width="863" height="489" alt="image" src="https://github.com/user-attachments/assets/a077f41a-d583-4226-9f01-19f289fbbc57" />
 
 *Dimensions shown in the diagram are in mm.*
 
@@ -248,7 +264,7 @@ The JC-600L compact tracked robot chassis meets high demands for off‑road mobi
 
 ### 6.5 Electrical Schematic
 
-[Image placeholder: document_image_rId10]
+<img width="1026" height="767" alt="image" src="https://github.com/user-attachments/assets/b8daafe3-d3f8-4a17-8108-f2201a48dae8" />
 
 a) **Battery**: Standard 24V 20Ah lithium battery, maximum voltage 29.4V, cut‑off discharge voltage 23V.  
 **Note:** Use the dedicated 24V lithium battery charger. Battery failure caused by over‑discharge is not covered under warranty.
@@ -390,13 +406,16 @@ b. Keep the crate dry.
 
 c. Avoid strong vibrations during transport.
 
+</details>
+
 ---
 
-## 7. Warranty Certificate
+<details>
+<summary><h2 style="display:inline; color: #A8D8EA">📋 7 Warranty Card</h2></summary>
 
-Content subject to change without notice. Check the latest version on the JCROBOT official website: https://www.jcrobots.com
+Content subject to change without notice. Check the latest version on the JCROBOT official website:  [https://robot-chassis.com/](https://robot-chassis.com/) 
 
-If you have any questions or suggestions, please contact us via email: jcrobot@163.com
+If you have any questions or suggestions, please contact us via email: ddpjcrobot@outlook.com  |  jcrobot@163.com
 
 | Customer Name | | Contract No. | |
 | :--- | :--- | :--- | :--- |
@@ -405,21 +424,33 @@ If you have any questions or suggestions, please contact us via email: jcrobot@1
 | | | | Inspector |
 | | | | |
 
-Or call: 0538-6626018
+Or call: 
+
+• +1 (327)208 2104
+
+• +1 (818)463 9273
+
+• 0538-6626018
+
+</details>
 
 ---
 
-## 8. 3D CAD Model
+<details>
+<summary><h2 style="display:inline; color: #7FDBCA">💾 8 3D CAD Models</h2></summary>
 
-[Image placeholder: document_image_rId12]
+<img width="1703" height="1215" alt="image" src="https://github.com/user-attachments/assets/ce81f867-cc8c-4491-a3e8-0175088d2295" />
 
 *Please open this page in a browser and download:*
 
 [JC600L-Client_Model.rar](https://www.yuque.com/attachments/yuque/0/2023/rar/2802136/1686553456378-4558212d-0ce6-428c-80dd-24405c30884a.rar)
 
+</details>
+
 ---
 
-## 9. More Extended Models and Related Solutions
+<details>
+<summary><h2 style="display:inline; color: #FF9AA2">🔗 9 Extended Models & Related Solutions</h2></summary>
 
 > Yuque content card – click to view: [https://www.yuque.com/jichuangjiqirenjcrobot/qokzma/ohgtspolbu5etmcs](https://www.yuque.com/jichuangjiqirenjcrobot/qokzma/ohgtspolbu5etmcs)
 
@@ -427,6 +458,6 @@ Or call: 0538-6626018
 
 > Yuque content card – click to view: [https://www.yuque.com/jichuangjiqirenjcrobot/qokzma/asyxhg2ytc1p8vqx?singleDoc# 《Reconnaissance Robot K-02&/JC600》](http://invalid.uri)
 
----
+</details>
 
-*End of document translation.*
+---
