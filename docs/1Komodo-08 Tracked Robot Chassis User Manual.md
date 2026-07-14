@@ -1,4 +1,4 @@
-# <span style="color: #FF6B6B">Komodo-08 High-Speed Engineering Tracked Robot Chassis User Manual</span>
+# <span style="color: #FF6B6B">Komodo-08 Tracked Robot Chassis User Manual</span>
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cf53e6be-4299-49fa-9a4e-11622e57a228" />
 
