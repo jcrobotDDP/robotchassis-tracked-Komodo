@@ -560,13 +560,11 @@ For inquiries or feedback, contact:
 
 - Email: ddpjcrobot@outlook.com  |  jcrobot@163.com
 
-- Phone:
+- WhatsApp:
 
   • +1 (327)208 2104
 
   • +1 (818)463 9273
-
-  • 0538-6626018
 
 |Item|Content|Item|Content|
 |---|---|---|---|
